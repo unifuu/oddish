@@ -1,4 +1,4 @@
-package oddish
+package monggo
 
 import (
 	"context"
